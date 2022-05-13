@@ -2,7 +2,7 @@
 
 ***DK-DA***
 
-Mit navn er Victor R og jeg kan godt lide teknologi, Kodning og Fysik :)
+Mit navn er Victor R og jeg kan godt lide teknologi, Kodning og Fysik 🤓
 
 Jeg har lille kode efering men er ved at lære Pyhon og Javascript.
 
@@ -16,7 +16,7 @@ Projekter/Kode som jeg har lavet er:
 
 ***EN-ENG***
 
-My name is Victor R and i like technology, coding and physics.
+My name is Victor R and i like technology, coding and physics 🤓
 
 I have little to small codeing knolagement but i am lerning Python and JavaScript
 
